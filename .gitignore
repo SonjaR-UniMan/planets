@@ -1,4 +1,5 @@
 *.csv
-results/
-!results/data
+results/*
+!results/data/
+
 
